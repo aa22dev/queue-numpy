@@ -1,1 +1,1 @@
-# queue-numpy
+# Queue Implementation using NumPy in Python
